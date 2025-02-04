@@ -1,0 +1,50 @@
+Tester1:
+
+Evaluation:
+Image: ai_3.png | Correct: AI | Your answer: ai | ✔️
+Image: drawn_6 | Correct: drawn | Your answer: ai | ❌
+Image: ai_1.png | Correct: AI | Your answer: ai | ✔️
+Image: drawn_7 | Correct: drawn | Your answer: ai | ❌
+Image: drawn_3 | Correct: drawn | Your answer: drawn | ✔️
+Image: drawn_1 | Correct: drawn | Your answer: ai | ❌
+Image: ai_2.png | Correct: AI | Your answer: drawn | ❌
+Image: ai_4.png | Correct: AI | Your answer: drawn | ❌
+Image: ai_5.png | Correct: AI | Your answer: ai | ✔️
+Image: drawn_5 | Correct: drawn | Your answer: ai | ❌
+
+Result: 4 out of 10 correct!
+
+
+Tester2:
+
+Evaluation:
+Image: ai_5.png | Correct: AI | Your answer: ai | ✔️
+Image: ai_4.png | Correct: AI | Your answer: ai | ✔️
+Image: drawn_3.png | Correct: drawn | Your answer: ai | ❌
+Image: ai_1.png | Correct: AI | Your answer: ai | ✔️
+Image: drawn_8.png | Correct: drawn | Your answer: drawn | ✔️
+Image: drawn_10.png | Correct: drawn | Your answer: drawn | ✔️
+Image: drawn_7.png | Correct: drawn | Your answer: ai | ❌
+Image: drawn_1.png | Correct: drawn | Your answer: ai | ❌
+Image: ai_3.png | Correct: AI | Your answer: ai | ✔️
+Image: ai_2.png | Correct: AI | Your answer: drawn | ❌
+
+Result: 6 out of 10 correct!
+
+
+Selbsttest:
+
+Evaluation:
+Image: ai_6.png | Correct: AI | Your answer: drawn | ❌
+Image: drawn_9.png | Correct: drawn | Your answer: drawn | ✔️
+Image: ai_9.png | Correct: AI | Your answer: ai | ✔️
+Image: ai_10.png | Correct: AI | Your answer: ai | ✔️
+Image: drawn_4.png | Correct: drawn | Your answer: drawn | ✔️
+Image: drawn_6.png | Correct: drawn | Your answer: ai | ❌
+Image: ai_15.png | Correct: AI | Your answer: ai | ✔️
+Image: drawn_5.png | Correct: drawn | Your answer: drawn | ✔️
+Image: ai_7.png | Correct: AI | Your answer: drawn | ❌
+Image: drawn_3.png | Correct: drawn | Your answer: drawn | ✔️
+
+Result: 7 out of 10 correct!
+
