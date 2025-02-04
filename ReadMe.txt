@@ -1,6 +1,6 @@
 Dies ist der digitale Anhang der Bachelorarbeit von Vanessa Maria Ommer.
 
-Unter "AIRecognitionTest" ein kleines Programm zum Testen der eigenen Fähigkeiten darin
+Unter "AIRecognitionTest" befindet sich ein kleines Programm zum Testen der eigenen Fähigkeiten darin
 KI-Bilder von Zeichnungen unterscheiden zu können. Der Test kann dabei im PopArt-und im Ganimal-Modus ausgeführt werden.
 Der PopArt-Test enthält die gleichen Bilder mit denen im Rahmen der Arbeit ein Online-Tool zur Erkennung von KI-Bildern
 getestet wurde (Abschnitt 6.3) und der Ganimal-Test enthält Bilder aus dem Trainingsdatensatz des Modells
